@@ -2,8 +2,6 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
+## Website content
+1. index.html
 
-hello test on 2nd commit
-
-## Add 3rd commit
